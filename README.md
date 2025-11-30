@@ -1,7 +1,3 @@
----
-tags:
-  - building-mcp-track-creative
----
 
 # Math MCP Server
 
