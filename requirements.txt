@@ -1,0 +1,20 @@
+# Web Interface
+gradio>=4.0.0
+
+# Mathematical Computing
+sympy>=1.12
+numpy>=1.20.0
+scipy>=1.7.0
+
+# Visualization
+matplotlib>=3.5.0
+Pillow>=9.0.0
+
+# MCP Protocol
+mcp>=0.1.0
+
+# Async Support
+anyio>=3.5.0
+
+# JSON & Serialization
+python-json-logger>=2.0.0
